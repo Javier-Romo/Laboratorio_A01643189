@@ -1,3 +1,4 @@
 
 #Esto es un Hola Mundo
-print("Hola Mundo!!!")
+for s in ["Hola ","Mundo","!"]:
+	print(s)
